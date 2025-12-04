@@ -1,7 +1,6 @@
 <!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Rakesh</h1>
 <div align="center">
-         <a href="mailto:shivkatira@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=true&width=435&lines=%3Cp%3E+Hey+there%2C+I'm+Rakesh+Chaudhary.+%3C%2Fp%3E" alt="Typing SVG" /></a>
+         <a href="mailto:arcsle09plus@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=true&width=435&lines=%3Cp%3E+Hi%2C+I'm+Rakesh+Chaudhary.+%3C%2Fp%3E" alt="Typing SVG" /></a>
       </div>
 <h3 align="center">Data Engineer | Analytics Engineer | Python Developer</h3>
 
