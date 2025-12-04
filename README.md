@@ -26,12 +26,12 @@
 
 ### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql,aws,databricks,snowflake,spark" />
+  <img src="https://skillicons.dev/icons?i=python,sql,go" />
 </p>
 
 ### ☁ Cloud & Big Data  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,snowflake,databricks" />
   <img height="48" src="https://www.svgrepo.com/show/448231/databricks.svg" />
   <img height="48" src="https://www.svgrepo.com/show/448226/snowflake.svg" />
 </p>
