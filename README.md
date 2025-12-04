@@ -2,7 +2,7 @@
 <div align="center">
          <a href="mailto:arcsle09plus@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=true&width=435&lines=%3Cp%3E+Hi%2C+I'm+Rakesh+Chaudhary+%3C%2Fp%3E" alt="Typing SVG" /></a>
       </div>
-<h3 align="center">Data Engineer | Analytics Engineer | Python Developer</h3>
+<h3 align="center">Data Analytics Engineer | Python Developer </h3>
 
 <p align="center">
   <a href="https://github.com/Arcsle09">
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **7+ years experience** in Data Engineering, Analytics Engineering & Python development
+- 🔭 **AWS Certified Professional having 7+ years experience** in Data Analytics Engineering & Python development
 - ⚡ Skilled in ETL pipelines, Automation, data modelinng and API Development
 - 🎯 Interested in building **end-to-end data systems** and **serverless pipelines**  
 - 🧩 Experienced in **BFSI(Payment,Billing,Pricing & Wealth) and FMCG(Pricing)** domains  
