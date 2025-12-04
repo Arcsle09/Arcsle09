@@ -18,7 +18,7 @@
 - ⚡ Skilled in ETL pipelines, Automation, Data Modeling and API Development
 - 🎯 Interested in building **end-to-end data systems** and **serverless pipelines**  
 - 🧩 Experienced in **BFSI(Payment,Billing,Pricing & Wealth) and FMCG(Pricing)** domains  
-- 📄 Know about my experience → *[Add your resume link here](https://github.com/Arcsle09/digital_resume_render/blob/master/assets/Rakesh_Chaudhary_Resume_L10_7016.pdf)*
+- 📄 Know about my experience → *[Resume](https://github.com/Arcsle09/digital_resume_render/blob/master/assets/Rakesh_Chaudhary_Resume_L10_7016.pdf)*
 
 ---
 
