@@ -26,7 +26,7 @@
 
 ### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql,go" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### ☁ Cloud & Big Data  
