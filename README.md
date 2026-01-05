@@ -30,9 +30,7 @@
 
 ### ☁ Cloud & Big Data  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,snowflake,databricks" />
-  <img height="48" src="https://www.svgrepo.com/show/448231/databricks.svg" />
-  <img height="48" src="https://www.svgrepo.com/show/448226/snowflake.svg" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,databricks" />
 </p>
 
 ### 🔧 Tools & Frameworks  
@@ -65,9 +63,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcsle09&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 💡 Tip  
-Pin your Top 4–6 repos so they appear at the top of your profile.
 
