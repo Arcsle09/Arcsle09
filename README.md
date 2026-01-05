@@ -42,11 +42,11 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <a href="LINKEDIN" target="_blank">
+    <img src="https://www.linkedin.com/in/rakesh-chaudhary-7a4355159" height="40"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:arcsle09plus@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
