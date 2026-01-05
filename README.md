@@ -42,8 +42,8 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="LINKEDIN" target="_blank">
-    <img src="https://www.linkedin.com/in/rakesh-chaudhary-7a4355159" height="40"/>
+  <a href="https://www.linkedin.com/in/rakesh-chaudhary-7a4355159" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;
   <a href="mailto:arcsle09plus@gmail.com">
