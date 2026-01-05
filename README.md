@@ -17,8 +17,7 @@
 - 🔭 **AWS Certified Professional having 7+ years experience** in Data Analytics Engineering & Python Development
 - ⚡ Skilled in ETL pipelines, Automation, Data Modeling and API Development
 - 🎯 Interested in building **end-to-end data systems** and **serverless pipelines**  
-- 🧩 Experienced in **BFSI(Payment,Billing,Pricing & Wealth) and FMCG(Pricing)** domains  
-- 📄 Know about my experience → *[Resume](https://github.com/Arcsle09/digital_resume_render/blob/master/assets/Rakesh_Chaudhary_Resume_L10_7016.pdf)*
+- 🧩 Experienced in **BFSI(Payment,Billing,Pricing & Wealth) and FMCG(Sales & Pricing)** domains
 
 ---
 
@@ -41,33 +40,6 @@
   <img src="https://skillicons.dev/icons?i=git,docker,fastapi,flask" />
 </p>
 
----
-
-## ⭐ Featured Projects
-
-### 📌 **Bitcoin Economy & Blockchain Simulation**  
-🔗 https://github.com/Arcsle09/Bitcoin-Economy-and-Blockchain  
-A project to understand blockchain fundamentals through simulation and visualization.  
-**Tech:** R, Python
-
----
-
-### 📌 **Finite Difference Methods (Numerical Analysis)**  
-🔗 https://github.com/Arcsle09/Finite_Difference_Methods  
-MATLAB implementations of implicit, explicit, and Crank–Nicolson methods.
-
----
-
-### 📌 **Selenium + AWS YouTube Trending Scraper**  
-🔗 https://github.com/Arcsle09/Selenium-AWS-Youtube-Scraper-Trending  
-Scrapes trending videos and stores results in AWS S3.  
-**Tech:** Selenium, Python, AWS Lambda/S3
-
----
-
-*(You can add/remove 1–2 more as needed.)*
-
----
 
 ## 📫 Connect With Me
 
